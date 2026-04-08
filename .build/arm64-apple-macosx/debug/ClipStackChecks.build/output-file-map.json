@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackChecks.build/master.swiftdeps"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackChecks/main.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackChecks.build/main.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackChecks.build/main.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackChecks.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackChecks.build/main.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackChecks.build/main.dia"
+  }
+}

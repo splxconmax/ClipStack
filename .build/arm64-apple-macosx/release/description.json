@@ -1,0 +1,856 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.ClipStackApp-arm64-apple-macosx26.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackApp.build/sources",
+      "importPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackApp/ClipStackApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules/ClipStackCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "ClipStackApp",
+      "moduleOutputPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules/ClipStackApp.swiftmodule",
+      "objects" : [
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackApp.build/ClipStackApp.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "8",
+        "-serialize-diagnostics",
+        "-O",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "ClipStackApp_main",
+        "-swift-version",
+        "6",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "cliptack",
+        "-disable-sandbox"
+      ],
+      "outputFileMapPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackApp.build/ClipStackApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules/ClipStackApp.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackApp/ClipStackApp.swift"
+      ],
+      "tempsPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackApp.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.ClipStackChecks-arm64-apple-macosx26.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.build/sources",
+      "importPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackChecks/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules/ClipStackCore.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "ClipStackChecks",
+      "moduleOutputPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules/ClipStackChecks.swiftmodule",
+      "objects" : [
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "8",
+        "-serialize-diagnostics",
+        "-O",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "ClipStackChecks_main",
+        "-parse-as-library",
+        "-swift-version",
+        "6",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "cliptack",
+        "-disable-sandbox"
+      ],
+      "outputFileMapPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules/ClipStackChecks.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackChecks/main.swift"
+      ],
+      "tempsPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.ClipStackCore-arm64-apple-macosx26.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/sources",
+      "importPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/AppModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/ClipStackApplicationDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Dialogs.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyRecorderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/LaunchAtLoginService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/MainPanelView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Persistence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PlatformServices.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PopoverContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SearchAndGrouping.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SettingsPanelView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/VisualEffectView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "ClipStackCore",
+      "moduleOutputPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules/ClipStackCore.swiftmodule",
+      "objects" : [
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/AppModel.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/ClipStackApplicationDelegate.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Dialogs.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/HotkeyManager.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/HotkeyRecorderView.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/LaunchAtLoginService.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/MainPanelView.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Models.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Persistence.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/PlatformServices.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/PopoverContentView.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/SearchAndGrouping.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/SettingsPanelView.swift.o",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/VisualEffectView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "8",
+        "-serialize-diagnostics",
+        "-O",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/include/ClipStackCore-Swift.h",
+        "-swift-version",
+        "6",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "cliptack",
+        "-disable-sandbox"
+      ],
+      "outputFileMapPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/AppModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/ClipStackApplicationDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Dialogs.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/HotkeyManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/HotkeyRecorderView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/LaunchAtLoginService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/MainPanelView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Persistence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/PlatformServices.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/PopoverContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/SearchAndGrouping.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/SettingsPanelView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/VisualEffectView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules/ClipStackCore.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/AppModel.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/ClipStackApplicationDelegate.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Dialogs.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyManager.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyRecorderView.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/LaunchAtLoginService.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/MainPanelView.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Models.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Persistence.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PlatformServices.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PopoverContentView.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SearchAndGrouping.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SettingsPanelView.swift",
+        "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/VisualEffectView.swift"
+      ],
+      "tempsPath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "ClipStackApp" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "ClipStackApp",
+      "-package-name",
+      "cliptack",
+      "-c",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackApp/ClipStackApp.swift",
+      "-I",
+      "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "8",
+      "-serialize-diagnostics",
+      "-O",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "ClipStackApp_main",
+      "-swift-version",
+      "6",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "cliptack",
+      "-disable-sandbox",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "ClipStackChecks" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "ClipStackChecks",
+      "-package-name",
+      "cliptack",
+      "-c",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackChecks/main.swift",
+      "-I",
+      "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "8",
+      "-serialize-diagnostics",
+      "-O",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "ClipStackChecks_main",
+      "-parse-as-library",
+      "-swift-version",
+      "6",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "cliptack",
+      "-disable-sandbox",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "ClipStackCore" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "ClipStackCore",
+      "-package-name",
+      "cliptack",
+      "-c",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/AppModel.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/ClipStackApplicationDelegate.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Dialogs.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyManager.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyRecorderView.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/LaunchAtLoginService.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/MainPanelView.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Models.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Persistence.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PlatformServices.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PopoverContentView.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SearchAndGrouping.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SettingsPanelView.swift",
+      "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/VisualEffectView.swift",
+      "-I",
+      "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "8",
+      "-serialize-diagnostics",
+      "-O",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/include/ClipStackCore-Swift.h",
+      "-swift-version",
+      "6",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "cliptack",
+      "-disable-sandbox",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "ClipStackApp" : [
+      "ClipStackCore"
+    ],
+    "ClipStackChecks" : [
+      "ClipStackCore"
+    ],
+    "ClipStackCore" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStack.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackApp.build/ClipStackApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/AppModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/ClipStackApplicationDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Dialogs.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/HotkeyManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/HotkeyRecorderView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/LaunchAtLoginService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/MainPanelView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Persistence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/PlatformServices.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/PopoverContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/SearchAndGrouping.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/SettingsPanelView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/VisualEffectView.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStack.product/Objects.LinkFileList"
+    },
+    "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackApp/ClipStackApp.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackApp.build/sources"
+    },
+    "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackChecks/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.build/sources"
+    },
+    "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/AppModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/ClipStackApplicationDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Dialogs.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/HotkeyManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/HotkeyRecorderView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/LaunchAtLoginService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/MainPanelView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/Persistence.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/PlatformServices.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/PopoverContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/SearchAndGrouping.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/SettingsPanelView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/VisualEffectView.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackChecks.product/Objects.LinkFileList"
+    },
+    "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/AppModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/ClipStackApplicationDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Dialogs.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyRecorderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/LaunchAtLoginService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/MainPanelView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Persistence.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PlatformServices.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PopoverContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SearchAndGrouping.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SettingsPanelView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/VisualEffectView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/ClipStackCore.build/sources"
+    },
+    "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/master.swiftdeps"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/AppModel.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/AppModel.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/AppModel.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/AppModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/AppModel.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/AppModel.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/ClipStackApplicationDelegate.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/ClipStackApplicationDelegate.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/ClipStackApplicationDelegate.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/ClipStackApplicationDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/ClipStackApplicationDelegate.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/ClipStackApplicationDelegate.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Dialogs.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Dialogs.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Dialogs.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Dialogs~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Dialogs.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Dialogs.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyManager.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyManager.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyManager.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyManager.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyManager.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/HotkeyRecorderView.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyRecorderView.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyRecorderView.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyRecorderView~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyRecorderView.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/HotkeyRecorderView.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/LaunchAtLoginService.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/LaunchAtLoginService.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/LaunchAtLoginService.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/LaunchAtLoginService~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/LaunchAtLoginService.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/LaunchAtLoginService.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/MainPanelView.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/MainPanelView.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/MainPanelView.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/MainPanelView~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/MainPanelView.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/MainPanelView.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Models.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Models.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Models.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Models.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Models.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/Persistence.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Persistence.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Persistence.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Persistence~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Persistence.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/Persistence.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PlatformServices.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PlatformServices.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PlatformServices.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PlatformServices~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PlatformServices.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PlatformServices.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/PopoverContentView.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PopoverContentView.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PopoverContentView.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PopoverContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PopoverContentView.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/PopoverContentView.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SearchAndGrouping.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SearchAndGrouping.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SearchAndGrouping.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SearchAndGrouping~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SearchAndGrouping.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SearchAndGrouping.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/SettingsPanelView.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SettingsPanelView.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SettingsPanelView.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SettingsPanelView~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SettingsPanelView.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/SettingsPanelView.dia"
+  },
+  "/Users/nick/Documents/gpt code/Cliptack/Sources/ClipStackCore/VisualEffectView.swift": {
+    "dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/VisualEffectView.d",
+    "object": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/VisualEffectView.swift.o",
+    "swiftmodule": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/VisualEffectView~partial.swiftmodule",
+    "swift-dependencies": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/VisualEffectView.swiftdeps",
+    "diagnostics": "/Users/nick/Documents/gpt code/Cliptack/.build/arm64-apple-macosx/debug/ClipStackCore.build/VisualEffectView.dia"
+  }
+}
