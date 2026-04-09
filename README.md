@@ -1,6 +1,6 @@
 # ClipStack
 
-Only MacOS supported for now.
+Only MacOS supported for now. Useful for work and in use together with Claude. When working with CLaude, it could require to copy many things, and this app makes it easier.
 
 ClipStack is a macOS 13+ menu bar clipboard manager built with SwiftUI + AppKit.
 
